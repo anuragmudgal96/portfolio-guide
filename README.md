@@ -1,4 +1,4 @@
-# :school_satchel:  Anurag's Portfolio
+#  📚   Anurag's Portfolio
 
 Welcome to my project index, a curated collection of my work, case studies, and hands-on experiments, and lots of learning.
 
