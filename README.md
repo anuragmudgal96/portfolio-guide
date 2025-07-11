@@ -1,6 +1,6 @@
 #  📚   Anurag's Portfolio
 
-Welcome to my project index, a curated collection of my work, experiments, and the highly *transferable skills I've built along the way.*
+Welcome to my project index, a curated collection of my work, experiments, and the highly _**transferable skills I've built along the way.**_
 
 ## Data Engineering
 
